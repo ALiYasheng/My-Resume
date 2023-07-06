@@ -1,0 +1,23 @@
+body{
+    background: burlywood;
+}
+
+img{
+    border: 5px solid green;
+    margin-left: 42%;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    color: green;
+}
+h3{
+    color: brown;
+}
+
+#contactme{
+    color: blueviolet;
+ }
