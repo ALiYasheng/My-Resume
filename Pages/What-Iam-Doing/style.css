@@ -1,8 +1,19 @@
 h1{
     text-transform: uppercase;
 }
-ul>li>div{
+/*ul>li>div{
    background-color: rgb(124, 163, 119); 
    height: 100px;
    width: 500px;
+}*/
+
+.container>*{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+h2{
+    padding-left: 20px;
 }
